@@ -1,6 +1,6 @@
 # npmtest-pty.js
 
-#### test coverage for  [pty.js (v0.3.1)](https://github.com/chjj/pty.js)  [![npm package](https://img.shields.io/npm/v/npmtest-pty.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pty.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pty.js.svg)](https://travis-ci.org/npmtest/node-npmtest-pty.js)
+#### basic test coverage for  [pty.js (v0.3.1)](https://github.com/chjj/pty.js)  [![npm package](https://img.shields.io/npm/v/npmtest-pty.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pty.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pty.js.svg)](https://travis-ci.org/npmtest/node-npmtest-pty.js)
 
 #### Pseudo terminals for node.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-pty.js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-pty.js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-pty.js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-pty.js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pty.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pty.js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-pty.js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-pty.js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pty.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pty.js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-pty.js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-pty.js/build/coverage.html/index.html)
 
@@ -90,7 +90,8 @@
         "tty",
         "terminal"
     ],
-    "version": "0.3.1"
+    "version": "0.3.1",
+    "bin": {}
 }
 ```
 
